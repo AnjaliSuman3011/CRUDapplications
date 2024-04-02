@@ -1,6 +1,17 @@
 {
   "dependencies": {
     "express": "^4.19.2",
+    "mongoose": "^8.2.4",
     "nodemon": "^3.1.0"
-  }
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "crudproject",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
